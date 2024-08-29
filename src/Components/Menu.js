@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import "./Menu.css";
-import logo from "../img/logo.png";
+import logo from "../img/MESA-white.png";
 import {
   FaDelicious,
   FaShoppingCart,
