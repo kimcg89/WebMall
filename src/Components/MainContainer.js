@@ -25,9 +25,9 @@ function MainContainer() {
           }}
         >
           <div className="textContainer">
-            <h1>Round Hall</h1>
+            <h1>MESA Mall</h1>
             <h2>1.5 ETH</h2>
-            <p>Uploaded by cgKim</p>
+            <p>Uploaded by CGKim</p>
             <div className="bid">
               <a href="#" className="button1">
                 Bid Now

@@ -32,7 +32,7 @@ function TopContainer() {
         <div className="profileImage">
           <img src={Women} alt="" />
         </div>
-        <p className="profileName">cgKim</p>
+        <p className="profileName">CGKim</p>
         <i className="menuChevron" id="menuChevron">
           <FaChevronDown />
         </i>
