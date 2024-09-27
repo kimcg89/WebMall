@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/WebMall/static/css/main.9bb4c52f.css",
+    "main.js": "/WebMall/static/js/main.c014c9e1.js",
+    "static/media/card2.jpg": "/WebMall/static/media/card2.0a00a02050d0f4c61b83.jpg",
+    "static/media/card6.jpg": "/WebMall/static/media/card6.54bfe5e3f3f0b9f83b52.jpg",
+    "static/media/1.jpg": "/WebMall/static/media/1.a85843ef5e753306229f.jpg",
+    "static/media/card1.jpg": "/WebMall/static/media/card1.17350c137788b401b792.jpg",
+    "static/media/card4.jpg": "/WebMall/static/media/card4.7e91f6219730f07ceed2.jpg",
+    "static/media/card3.jpg": "/WebMall/static/media/card3.4c50215e5d6ffb63390e.jpg",
+    "static/media/card5.jpg": "/WebMall/static/media/card5.de016352f81f4cf768fb.jpg",
+    "static/media/women.jpg": "/WebMall/static/media/women.78eb8e9a8c06f163aad5.jpg",
+    "static/media/seller1.jpg": "/WebMall/static/media/seller1.0c86b331a4ef80d2811f.jpg",
+    "static/media/seller5.jpg": "/WebMall/static/media/seller5.ae40df41d24083866d8f.jpg",
+    "static/media/seller2.jpg": "/WebMall/static/media/seller2.84fe167149224c4ff81d.jpg",
+    "static/media/seller4.jpg": "/WebMall/static/media/seller4.6c17dab7a2e523b38a20.jpg",
+    "static/media/seller3.jpg": "/WebMall/static/media/seller3.7438d8be043c56d690c0.jpg",
+    "index.html": "/WebMall/index.html",
+    "main.9bb4c52f.css.map": "/WebMall/static/css/main.9bb4c52f.css.map",
+    "main.c014c9e1.js.map": "/WebMall/static/js/main.c014c9e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bb4c52f.css",
+    "static/js/main.c014c9e1.js"
+  ]
+}
